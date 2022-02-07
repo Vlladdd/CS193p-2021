@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/25762193/152816927-b2ca6cb9-6aae-4da7-
 # Memorize
 https://user-images.githubusercontent.com/25762193/152825893-f791cca0-590e-44f5-b00f-e8dbb34eec24.mp4
 
-#EmojiArt
+# EmojiArt
 
 https://user-images.githubusercontent.com/25762193/152824452-eb764ab5-ac22-477a-a74f-7e354bb96268.mp4
 
